@@ -43,6 +43,8 @@ curl http://127.0.0.1:8080/
 
 ## Container build
 
+The published image is available on Docker Hub: https://hub.docker.com/r/agaddy/whatsmyip
+
 ```bash
 docker build -t whatsmyip .
 ```
